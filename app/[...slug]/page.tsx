@@ -18,7 +18,7 @@ const meta: Record<string,{title:string;description:string}> = {
   testimonials:{title:'Member Stories',description:'Read illustrative member stories from the Citi Gym community.'},
   blog:{title:'Fitness Journal',description:'Clear, practical guidance for smarter training, recovery and consistency.'},
   faq:{title:'Frequently Asked Questions',description:'Answers about Citi Gym trials, memberships, coaching and your first visit.'},
-  contact:{title:'Contact & Free Trial',description:'Visit Citi Gym in Citi Housing, Jhelum or book your complimentary trial.'},
+  contact:{title:'Contact & Free Trial',description:'Visit Citi Gym at XMV6+G36, Satellite Town, Jhelum or book your complimentary trial.'},
   privacy:{title:'Privacy Policy',description:'How Citi Gym handles information submitted through this demonstration website.'},
   terms:{title:'Terms & Conditions',description:'Terms and conditions for the Citi Gym demonstration website.'},
   'blog/train-smarter':{title:'Train Smarter: 4 Pillars of Progress',description:'A practical framework for building strength without burning out.'},

@@ -42,7 +42,7 @@ export function SiteShell({ children }: { children: ReactNode }) {
     <section className="bigCta"><div className="container ctaInner"><div><span className="kicker dark">Ready when you are</span><h2>Your strongest chapter starts here.</h2></div><form className="quickForm" onSubmit={event=>{event.preventDefault();setQuickSent(true);event.currentTarget.reset()}}><label><span>Name</span><input aria-label="Name" name="name" required placeholder="Your name"/></label><label><span>Phone</span><input aria-label="Phone" name="phone" type="tel" required placeholder="03xx xxx xxxx"/></label><button className="button buttonDark" type="submit">{quickSent?'Request sent':'Book a free tour'} <ArrowRight weight="bold" /></button></form></div></section>
     <footer className="footer"><div className="container">
       <div className="footerTop"><div className="footerBrand"><Logo/><p>Elevated training, expert coaching and a community built to move forward.</p><a href="mailto:hello@citigym.pk">hello@citigym.pk</a></div><div className="footerLinks">{allPages.map(([label,href])=><Link key={href} href={href}>{label}</Link>)}</div></div>
-      <div className="footerBottom"><span>© {new Date().getFullYear()} Citi Gym. Demo website.</span><span>Citi Housing, Jhelum · +92 300 111 2484</span></div>
+      <div className="footerBottom"><span>© {new Date().getFullYear()} Citi Gym. Demo website.</span><span>XMV6+G36, Satellite Town, Jhelum · +92 300 111 2484</span></div>
     </div></footer>
     <a className="whatsapp" href="https://wa.me/923001112484" target="_blank" rel="noreferrer" aria-label="Chat on WhatsApp"><WhatsappLogo size={27} weight="fill" /></a>
     <a className="mobileCall" href="tel:+923001112484"><Phone size={20} weight="fill"/> Call now · +92 300 111 2484</a>

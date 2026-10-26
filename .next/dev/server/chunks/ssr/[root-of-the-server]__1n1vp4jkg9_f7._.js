@@ -79,7 +79,7 @@ const meta = {
     },
     contact: {
         title: 'Contact & Free Trial',
-        description: 'Visit Citi Gym in Citi Housing, Jhelum or book your complimentary trial.'
+        description: 'Visit Citi Gym at XMV6+G36, Satellite Town, Jhelum or book your complimentary trial.'
     },
     privacy: {
         title: 'Privacy Policy',
@@ -2873,7 +2873,7 @@ function ContactPage() {
                                             columnNumber: 373
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "Citi Housing, Jhelum, Punjab"
+                                            children: "XMV6+G36, Satellite Town, Jhelum"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
@@ -2893,27 +2893,27 @@ function ContactPage() {
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$Phone$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Phone"], {}, void 0, false, {
                                                     fileName: "[project]/components/page-content.tsx",
                                                     lineNumber: 70,
-                                                    columnNumber: 492
+                                                    columnNumber: 496
                                                 }, this),
                                                 " Talk to us"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 485
+                                            columnNumber: 489
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                             children: "+92 300 111 2484 · hello@citigym.pk"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 519
+                                            columnNumber: 523
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
-                                    columnNumber: 456
+                                    columnNumber: 460
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "contactCard",
@@ -2923,38 +2923,38 @@ function ContactPage() {
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$Clock$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Clock"], {}, void 0, false, {
                                                     fileName: "[project]/components/page-content.tsx",
                                                     lineNumber: 70,
-                                                    columnNumber: 613
+                                                    columnNumber: 617
                                                 }, this),
                                                 " Working hours"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 606
+                                            columnNumber: 610
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                             children: "Mon–Fri 06:00–23:00 · Sat–Sun 07:00–22:00"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 643
+                                            columnNumber: 647
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
-                                    columnNumber: 577
+                                    columnNumber: 581
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
                                     className: "map",
-                                    title: "Citi Gym location in Citi Housing Jhelum",
+                                    title: "Citi Gym at XMV6+G36, Satellite Town, Jhelum",
                                     loading: "lazy",
                                     referrerPolicy: "no-referrer-when-downgrade",
-                                    src: "https://www.google.com/maps?q=Citi%20Housing%20Jhelum%2C%20Punjab%2C%20Pakistan&output=embed"
+                                    src: "https://www.google.com/maps?q=XMV6%2BG36%2C%20Satellite%20Town%2C%20Jhelum&z=17&output=embed"
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
-                                    columnNumber: 707
+                                    columnNumber: 711
                                 }, this)
                             ]
                         }, void 0, true, {
