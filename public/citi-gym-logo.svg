@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 220" role="img" aria-labelledby="title desc">
+  <title id="title">Citi Gym</title>
+  <desc id="desc">Citi Gym wordmark framed by a barbell</desc>
+  <g fill="none" stroke="#caff2f" stroke-linecap="square" stroke-linejoin="round">
+    <path stroke-width="10" d="M75 104h290M45 86v36M61 70v68M379 70v68M395 86v36M27 96v16M413 96v16"/>
+    <path stroke-width="5" d="M24 104H8l12-12M416 104h16l-12-12M20 116 8 104M420 116l12-12"/>
+    <path stroke-width="4" d="M119 20h202l22 48v84l-22 48H119l-22-48V68z" opacity=".55"/>
+  </g>
+  <g fill="#f7f4e9" font-family="Arial Black, Arial, sans-serif" font-weight="900" text-anchor="middle">
+    <text x="220" y="88" font-size="72" letter-spacing="13">CITI</text>
+    <text x="220" y="185" font-size="78" letter-spacing="8">GYM</text>
+  </g>
+  <path d="M212 105c-16 18-20 43 8 57 28-14 24-39 8-57l-8 17z" fill="none" stroke="#caff2f" stroke-width="5"/>
+</svg>
