@@ -2949,7 +2949,8 @@ function ContactPage() {
                                     className: "map",
                                     title: "Citi Gym location in Citi Housing Jhelum",
                                     loading: "lazy",
-                                    src: "https://www.openstreetmap.org/export/embed.html?bbox=73.680%2C32.900%2C73.780%2C32.980&layer=mapnik"
+                                    referrerPolicy: "no-referrer-when-downgrade",
+                                    src: "https://www.google.com/maps?q=Citi%20Housing%20Jhelum%2C%20Punjab%2C%20Pakistan&output=embed"
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
