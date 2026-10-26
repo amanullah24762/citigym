@@ -8,17 +8,17 @@ const routes = [
 ] as const;
 
 const meta: Record<string,{title:string;description:string}> = {
-  about:{title:'About Us',description:'Meet the idea, values and coaching team behind Citi Gym Lahore.'},
+  about:{title:'About Us',description:'Meet the idea, values and coaching team behind Citi Gym in Citi Housing, Jhelum.'},
   services:{title:'Training & Services',description:'Explore strength training, personal coaching and group classes at Citi Gym.'},
   'strength-training':{title:'Strength Training',description:'Purpose-built strength equipment and progressive programming for every level.'},
   'personal-coaching':{title:'Personal Coaching',description:'One-to-one fitness coaching designed around your goals, body and schedule.'},
-  'group-classes':{title:'Group Classes',description:'Coach-led strength, conditioning and mobility classes in Lahore.'},
+  'group-classes':{title:'Group Classes',description:'Coach-led strength, conditioning and mobility classes in Jhelum.'},
   gallery:{title:'Gallery',description:'Explore the premium strength floors and training spaces at Citi Gym.'},
   pricing:{title:'Memberships & Pricing',description:'Simple, flexible Citi Gym membership plans for every training goal.'},
   testimonials:{title:'Member Stories',description:'Read illustrative member stories from the Citi Gym community.'},
   blog:{title:'Fitness Journal',description:'Clear, practical guidance for smarter training, recovery and consistency.'},
   faq:{title:'Frequently Asked Questions',description:'Answers about Citi Gym trials, memberships, coaching and your first visit.'},
-  contact:{title:'Contact & Free Trial',description:'Visit Citi Gym in Gulberg III, Lahore or book your complimentary trial.'},
+  contact:{title:'Contact & Free Trial',description:'Visit Citi Gym in Citi Housing, Jhelum or book your complimentary trial.'},
   privacy:{title:'Privacy Policy',description:'How Citi Gym handles information submitted through this demonstration website.'},
   terms:{title:'Terms & Conditions',description:'Terms and conditions for the Citi Gym demonstration website.'},
   'blog/train-smarter':{title:'Train Smarter: 4 Pillars of Progress',description:'A practical framework for building strength without burning out.'},

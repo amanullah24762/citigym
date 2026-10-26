@@ -9,7 +9,7 @@ const body = Manrope({ subsets: ['latin'], variable: '--font-body', weight: ['40
 export const metadata: Metadata = {
   metadataBase: new URL('https://citigym.pk'),
   title: { default: 'Citi Gym | Built for More', template: '%s | Citi Gym' },
-  description: 'A premium training club in Lahore for strength, performance and everyday confidence.',
+  description: 'A premium training club in Citi Housing, Jhelum for strength, performance and everyday confidence.',
   openGraph: { title: 'Citi Gym', description: 'Train with intent. Live with strength.', images: ['/images/citi-gym-hero.png'], type: 'website' },
 };
 

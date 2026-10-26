@@ -66,7 +66,7 @@ const metadata = {
         default: 'Citi Gym | Built for More',
         template: '%s | Citi Gym'
     },
-    description: 'A premium training club in Lahore for strength, performance and everyday confidence.',
+    description: 'A premium training club in Citi Housing, Jhelum for strength, performance and everyday confidence.',
     openGraph: {
         title: 'Citi Gym',
         description: 'Train with intent. Live with strength.',

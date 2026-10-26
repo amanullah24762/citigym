@@ -477,7 +477,7 @@ function HomePage() {
                     children: [
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                             className: "kicker",
-                            children: "Premium training club · Lahore"
+                            children: "Premium training club · Citi Housing Jhelum"
                         }, void 0, false, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 34,
@@ -491,13 +491,13 @@ function HomePage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 34,
-                                    columnNumber: 141
+                                    columnNumber: 154
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 34,
-                            columnNumber: 127
+                            columnNumber: 140
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             className: "lead",
@@ -505,7 +505,7 @@ function HomePage() {
                         }, void 0, false, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 34,
-                            columnNumber: 164
+                            columnNumber: 177
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "actions",
@@ -520,13 +520,13 @@ function HomePage() {
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 383
+                                            columnNumber: 396
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 34,
-                                    columnNumber: 320
+                                    columnNumber: 333
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                     className: "button buttonGhost",
@@ -535,13 +535,13 @@ function HomePage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 34,
-                                    columnNumber: 417
+                                    columnNumber: 430
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 34,
-                            columnNumber: 295
+                            columnNumber: 308
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "heroStats",
@@ -553,20 +553,20 @@ function HomePage() {
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 532
+                                            columnNumber: 545
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: "Open daily"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 554
+                                            columnNumber: 567
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 34,
-                                    columnNumber: 527
+                                    columnNumber: 540
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
@@ -575,20 +575,20 @@ function HomePage() {
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 588
+                                            columnNumber: 601
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: "Expert coaches"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 608
+                                            columnNumber: 621
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 34,
-                                    columnNumber: 583
+                                    columnNumber: 596
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     children: [
@@ -597,26 +597,26 @@ function HomePage() {
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 646
+                                            columnNumber: 659
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
                                             children: "Purpose-built"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 34,
-                                            columnNumber: 671
+                                            columnNumber: 684
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 34,
-                                    columnNumber: 641
+                                    columnNumber: 654
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 34,
-                            columnNumber: 500
+                            columnNumber: 513
                         }, this)
                     ]
                 }, void 0, true, {
@@ -1015,13 +1015,13 @@ function AboutPage() {
                 eyebrow: "Our story",
                 title: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Fragment"], {
                     children: [
-                        "The city’s ",
+                        "Jhelum’s ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("em", {
                             children: "training club."
                         }, void 0, false, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 102
+                            columnNumber: 100
                         }, this)
                     ]
                 }, void 0, true, {
@@ -1045,7 +1045,7 @@ function AboutPage() {
                         }, void 0, false, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 312
+                            columnNumber: 310
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             children: [
@@ -1055,14 +1055,14 @@ function AboutPage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 346
+                                    columnNumber: 344
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                                     children: "More intention. Less intimidation."
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 390
+                                    columnNumber: 388
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                     className: "lead",
@@ -1070,31 +1070,31 @@ function AboutPage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 433
+                                    columnNumber: 431
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                    children: "This demo brand imagines a modern Lahore fitness club where beginners and seasoned athletes can share the same floor, each with a clear path forward."
+                                    children: "Citi Gym brings a modern fitness experience to Citi Housing, Jhelum, where beginners and seasoned athletes can share the same floor with a clear path forward."
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 607
+                                    columnNumber: 605
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 341
+                            columnNumber: 339
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/page-content.tsx",
                     lineNumber: 45,
-                    columnNumber: 279
+                    columnNumber: 277
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/page-content.tsx",
                 lineNumber: 45,
-                columnNumber: 250
+                columnNumber: 248
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 className: "section sectionDark",
@@ -1107,7 +1107,7 @@ function AboutPage() {
                         }, void 0, false, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 853
+                            columnNumber: 860
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "grid3",
@@ -1116,57 +1116,57 @@ function AboutPage() {
                                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$ShieldCheck$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["ShieldCheck"], {}, void 0, false, {
                                         fileName: "[project]/components/page-content.tsx",
                                         lineNumber: 45,
-                                        columnNumber: 974
+                                        columnNumber: 981
                                     }, this),
                                     title: "Respect, always",
                                     text: "A supportive space where everyone can focus, learn and belong."
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 961
+                                    columnNumber: 968
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Value, {
                                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$Trophy$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Trophy"], {}, void 0, false, {
                                         fileName: "[project]/components/page-content.tsx",
                                         lineNumber: 45,
-                                        columnNumber: 1098
+                                        columnNumber: 1105
                                     }, this),
                                     title: "Progress with purpose",
                                     text: "Smart training decisions that compound into durable results."
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 1085
+                                    columnNumber: 1092
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Value, {
                                     icon: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$Sparkle$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Sparkle"], {}, void 0, false, {
                                         fileName: "[project]/components/page-content.tsx",
                                         lineNumber: 45,
-                                        columnNumber: 1221
+                                        columnNumber: 1228
                                     }, this),
                                     title: "Care in the details",
                                     text: "From clean equipment to a warm welcome, the small things matter."
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 1208
+                                    columnNumber: 1215
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 938
+                            columnNumber: 945
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/page-content.tsx",
                     lineNumber: 45,
-                    columnNumber: 826
+                    columnNumber: 833
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/page-content.tsx",
                 lineNumber: 45,
-                columnNumber: 785
+                columnNumber: 792
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
                 className: "section",
@@ -1180,7 +1180,7 @@ function AboutPage() {
                         }, void 0, false, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 1412
+                            columnNumber: 1419
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "grid3",
@@ -1192,7 +1192,7 @@ function AboutPage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 1583
+                                    columnNumber: 1590
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Coach, {
                                     name: "Ayla Khan",
@@ -1201,7 +1201,7 @@ function AboutPage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 1644
+                                    columnNumber: 1651
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(Coach, {
                                     name: "Rafay Siddiqui",
@@ -1210,24 +1210,24 @@ function AboutPage() {
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 45,
-                                    columnNumber: 1704
+                                    columnNumber: 1711
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/components/page-content.tsx",
                             lineNumber: 45,
-                            columnNumber: 1560
+                            columnNumber: 1567
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/components/page-content.tsx",
                     lineNumber: 45,
-                    columnNumber: 1385
+                    columnNumber: 1392
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/components/page-content.tsx",
                 lineNumber: 45,
-                columnNumber: 1356
+                columnNumber: 1363
             }, this)
         ]
     }, void 0, true, {
@@ -2657,7 +2657,7 @@ function ContactPage() {
                                             columnNumber: 373
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                            children: "24-C Main Boulevard, Gulberg III, Lahore"
+                                            children: "Citi Housing, Jhelum, Punjab"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
@@ -2677,27 +2677,27 @@ function ContactPage() {
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$Phone$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Phone"], {}, void 0, false, {
                                                     fileName: "[project]/components/page-content.tsx",
                                                     lineNumber: 70,
-                                                    columnNumber: 504
+                                                    columnNumber: 492
                                                 }, this),
                                                 " Talk to us"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 497
+                                            columnNumber: 485
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                             children: "+92 300 111 2484 · hello@citigym.pk"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 531
+                                            columnNumber: 519
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
-                                    columnNumber: 468
+                                    columnNumber: 456
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "contactCard",
@@ -2707,37 +2707,37 @@ function ContactPage() {
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f40$phosphor$2d$icons$2f$react$2f$dist$2f$ssr$2f$Clock$2e$es$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Clock"], {}, void 0, false, {
                                                     fileName: "[project]/components/page-content.tsx",
                                                     lineNumber: 70,
-                                                    columnNumber: 625
+                                                    columnNumber: 613
                                                 }, this),
                                                 " Working hours"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 618
+                                            columnNumber: 606
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
                                             children: "Mon–Fri 06:00–23:00 · Sat–Sun 07:00–22:00"
                                         }, void 0, false, {
                                             fileName: "[project]/components/page-content.tsx",
                                             lineNumber: 70,
-                                            columnNumber: 655
+                                            columnNumber: 643
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
-                                    columnNumber: 589
+                                    columnNumber: 577
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("iframe", {
                                     className: "map",
-                                    title: "Citi Gym location in Gulberg Lahore",
+                                    title: "Citi Gym location in Citi Housing Jhelum",
                                     loading: "lazy",
-                                    src: "https://www.openstreetmap.org/export/embed.html?bbox=74.329%2C31.500%2C74.370%2C31.530&layer=mapnik"
+                                    src: "https://www.openstreetmap.org/export/embed.html?bbox=73.680%2C32.900%2C73.780%2C32.980&layer=mapnik"
                                 }, void 0, false, {
                                     fileName: "[project]/components/page-content.tsx",
                                     lineNumber: 70,
-                                    columnNumber: 719
+                                    columnNumber: 707
                                 }, this)
                             ]
                         }, void 0, true, {
